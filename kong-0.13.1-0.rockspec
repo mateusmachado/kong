@@ -32,6 +32,7 @@ dependencies = {
   "lua-resty-mediador == 0.1.2",
   "lua-resty-healthcheck == 0.4.0",
   "lua-resty-mlcache == 2.0.2",
+  "kong-plugin-zipkin"
 }
 build = {
   type = "builtin",
